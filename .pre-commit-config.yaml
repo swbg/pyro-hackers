@@ -1,0 +1,14 @@
+repos:
+-   repo: https://github.com/nbQA-dev/nbQA
+    rev: 0.8.1
+    hooks:
+    -   id: nbqa-black
+        args: [--nbqa-mutate]
+        additional_dependencies: [black==21.5b1]
+    -   id: nbqa-flake8
+        args: [--nbqa-mutate]
+        additional_dependencies: [flake8==3.9.2]
+    -   id: nbqa-isort
+        args: [--nbqa-mutate]
+        additional_dependencies: [isort==5.8.0]
+
