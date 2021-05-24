@@ -1,0 +1,22 @@
+name: pyro-hackers
+channels:
+  - defaults
+dependencies:
+  - pip=21.0.1
+  - python=3.9.2
+  - pip:
+    - black==21.5b1
+    - flake8==3.9.2
+    - isort==5.8.0
+    - matplotlib==3.3.4
+    - notebook==6.3.0
+    - numpy==1.20.1
+    - pandas==1.2.3
+    - pre-commit==2.12.1
+    - pyro-api==0.1.2
+    - pyro-ppl==1.6.0
+    - requests==2.25.1
+    - scipy==1.6.1
+    - seaborn==0.11.1
+    - torch==1.8.0
+    - yfinance==0.1.59
