@@ -10,6 +10,14 @@ Please note:
 
 Big thanks to all the contributors of the original tutorial!
 
+## Rendered notebooks
+
+If you have trouble viewing the notebooks on GitHub, check out the following links:
+* [Chapter 1](https://swbg.github.io/pyro-hackers/renders/chapter_01.html)
+* [Chapter 2](https://swbg.github.io/pyro-hackers/renders/chapter_02.html)
+* [Chapter 3](https://swbg.github.io/pyro-hackers/renders/chapter_03.html)
+* [Chapter 4](https://swbg.github.io/pyro-hackers/renders/chapter_04.html)
+
 ## Some links that may be of interest
 * [Original tutorial and book on GitHub](https://github.com/CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers)
 * [Pyro's documentation](https://pyro.ai/examples/index.html)
