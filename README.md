@@ -17,6 +17,7 @@ If you have trouble viewing the notebooks on GitHub, check out the following lin
 * [Chapter 2](https://swbg.github.io/pyro-hackers/renders/chapter_02.html)
 * [Chapter 3](https://swbg.github.io/pyro-hackers/renders/chapter_03.html)
 * [Chapter 4](https://swbg.github.io/pyro-hackers/renders/chapter_04.html)
+* [Chapter 5](https://swbg.github.io/pyro-hackers/renders/chapter_05.html)
 
 ## Some links that may be of interest
 * [Original tutorial and book on GitHub](https://github.com/CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers)
